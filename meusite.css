@@ -7,18 +7,26 @@ text-align: center;
 .col1{
 text-align: center;
 margin: 50px;
-background-color: rgb(84, 103, 135);
+background-color:  rgb(108, 117, 124);
+border-radius: 15px;
 }
 
 .col2{
 text-align: center;
 margin: 50px;
-background-color: rgb(84, 103, 135);
+background-color:  rgb(108, 117, 124);
+border-radius: 15px;
+
 }
 
 h1{
 font-family: fantasy;
 
+}
+
+a{
+
+font-size: 20px;
 }
 
 
