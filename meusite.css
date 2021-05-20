@@ -25,9 +25,29 @@ font-family: fantasy;
 }
 
 a{
-
+text-decoration: none;
 font-size: 20px;
 }
 
+.classe1 a{
+text-decoration: none;
+
+}
+
+.col3{
+text-align: center;
+margin: 50px;
+background-color: gold;
+border-radius: 15px;
+}
+
+body{
+background-color: rgb(0, 0, 0);
 
 
+}
+
+
+.bg-light {
+    background-color:rgb(0, 0, 0)!important;
+}
